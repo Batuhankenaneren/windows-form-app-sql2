@@ -1,0 +1,12 @@
+C:\Users\batuh\Desktop\visual 2\visual2\visual2\bin\Debug\visual2.exe.config
+C:\Users\batuh\Desktop\visual 2\visual2\visual2\bin\Debug\visual2.exe
+C:\Users\batuh\Desktop\visual 2\visual2\visual2\bin\Debug\visual2.pdb
+C:\Users\batuh\Desktop\visual 2\visual2\visual2\obj\Debug\visual2.csproj.AssemblyReference.cache
+C:\Users\batuh\Desktop\visual 2\visual2\visual2\obj\Debug\visual2.csproj.SuggestedBindingRedirects.cache
+C:\Users\batuh\Desktop\visual 2\visual2\visual2\obj\Debug\visual2.Form1.resources
+C:\Users\batuh\Desktop\visual 2\visual2\visual2\obj\Debug\visual2.Properties.Resources.resources
+C:\Users\batuh\Desktop\visual 2\visual2\visual2\obj\Debug\visual2.csproj.GenerateResource.cache
+C:\Users\batuh\Desktop\visual 2\visual2\visual2\obj\Debug\visual2.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\visual 2\visual2\visual2\obj\Debug\visual2.exe
+C:\Users\batuh\Desktop\visual 2\visual2\visual2\obj\Debug\visual2.pdb
+C:\Users\batuh\Desktop\visual 2\visual2\visual2\obj\Debug\visual2.Form2.resources
